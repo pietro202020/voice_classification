@@ -16,3 +16,5 @@ podstawie wartości przybliżenia f0 i F1 algorytm klasyfikuje płeć: głosy o 
 (160 -185 Hz) klasyfikuje na podstawie F1, gdy jest mniejsze od 500 Hz głos jest uznawany jako męski,
 w przeciwnym razie kobiecy.
 Jak widać poniżej algorytm zadziałał z trafnością klasyfikowania wynoszącą około 87%
+
+![Alt text](gender_classification.png)
